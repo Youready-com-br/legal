@@ -30,4 +30,4 @@ If we update this policy, the changes will be reflected on this page with an upd
 
 ## Contact
 
-If you have any questions about this privacy policy, you can reach us at: **[your-email@example.com]**
+If you have any questions about this privacy policy, you can reach us at: **rafaelissao@youready.com.br**
